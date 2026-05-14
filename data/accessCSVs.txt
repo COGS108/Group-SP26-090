@@ -1,0 +1,4 @@
+Due to our Dataset exceeding 100MB we have uploaded the 00-raw and 01-interim csv files
+in a shared google drive. 
+Here is the link to our drive.
+https://drive.google.com/drive/folders/1e6mNzSwucm7nt338QNCsNraPMXF4Nzac?usp=drive_link 
